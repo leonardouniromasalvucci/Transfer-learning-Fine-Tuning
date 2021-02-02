@@ -6,3 +6,5 @@ is divided into:
 * Rainy
 * Snowy
 * Sunny
+
+I have used three of the available folders to train, evaluate and test my networks, respectively, MWI-Dataset-1.1 2000, MWI-Dataset-1.2.1 and Test-Set Weather. For correct training, the folders have been partly manipulated, remaining three distinct sets to train, evaluate and test the models.
